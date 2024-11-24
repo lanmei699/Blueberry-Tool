@@ -7,7 +7,7 @@ current_dir=$(basename "$PWD")
     
     git clone https://github.com/lanmei699/Blueberry-Tool
     cd
-    cd 蓝莓工具
+    cd Blueberry-Tool
     bash req.sh
     chmod +x 蓝莓工具
     ./蓝莓工具
